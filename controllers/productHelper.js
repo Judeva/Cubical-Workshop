@@ -3,7 +3,7 @@ exports.validateInput = function(res, req, next){
 
     console.log(req.body);
     
-    //console.log(req.body.name);
+    console.log(req.body);
 
     if(isValid){
         next();

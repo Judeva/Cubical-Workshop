@@ -1,6 +1,6 @@
 const config = {
     development: {
-        PORT: 1810,
+        PORT: 5000,
     },
     production: {
         PORT: 80,
